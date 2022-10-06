@@ -1,11 +1,12 @@
---Script made by green ghost#4841
+--Script made by green ghost#4841 | https://github.com/greenghost110
 --Licenced under GPLv3
 
---By using this script you acknoledge you could get banned. 
+--By using this script you acknowledge you could get banned. 
 --I suggest using an alternitive account.
 --If you understand, change false to true under this line
-
 local EULA = false
+
+
 
 --Don't touch anything below if you don't understand coding!
 
@@ -75,7 +76,7 @@ chatrem:FireServer('I am not here to make pretenses', "All")
 wait(3)
 chatrem:FireServer('I am here because of my *** offenses', "All")
 wait(3)
-chatrem:FireServer('I am Sam Pound, I am number one', "All")
+chatrem:FireServer('I am Sam, I am number one', "All")
 wait(3)
 chatrem:FireServer('Apologizing for what I have done', "All")
 wait(3)
@@ -87,7 +88,7 @@ chatrem:FireServer('I held her down and watched her struggle', "All")
 wait(3)
 chatrem:FireServer('Then played with her melons because I like to juggle', "All")
 wait(3)
-chatrem:FireServer('I am not here to eat eats those truffles', "All")
+chatrem:FireServer('I am not here to eat those truffles', "All")
 wait(3)
 chatrem:FireServer('I am  just here to do the *** offender shuffle', "All")
 wait(3)
@@ -103,7 +104,7 @@ chatrem:FireServer('You will not find me in your childs play set', "All")
 wait(3)
 chatrem:FireServer('Cause I gotta wear this ankle bracelet', "All")
 wait(3)
-chatrem:FireServer('I am not here to go on a bender', "All")
+chatrem:FireServer('I am not here to go on a ******', "All")
 wait(3)
 chatrem:FireServer('I am here because I am a *** offender', "All")
 wait(3)
