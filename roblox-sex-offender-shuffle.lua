@@ -16,9 +16,9 @@ chatrem:FireServer('The State of Florida has asked us to', "All")
 wait(3)
 chatrem:FireServer('Disclose our ***** crimes to you', "All")
 wait(3)
-chatrem:FireServer('We were bad, but now were good', "All")
+chatrem:FireServer('We were bad, but now we are good', "All")
 wait(3)
-chatrem:FireServer('Were moving into your neighborhood', "All")
+chatrem:FireServer('We are moving into your neighborhood', "All")
 wait(3)
 chatrem:FireServer('You know were trying our best to be', "All")
 wait(3)
@@ -150,9 +150,9 @@ chatrem:FireServer('The State of Florida has asked us to', "All")
 wait(3)
 chatrem:FireServer('Disclose our ***** crimes to you', "All")
 wait(3)
-chatrem:FireServer('We were bad, but now were good', "All")
+chatrem:FireServer('We were bad, but now we are good', "All")
 wait(3)
-chatrem:FireServer('Were moving into your neighborhood', "All")
+chatrem:FireServer('We are moving into your neighborhood', "All")
 wait(3)
 chatrem:FireServer('We are obliged to admit', "All")
 wait(3)
@@ -166,6 +166,6 @@ end
 
 if EULA ~= true then
     local msg=Instance.new("Message")
-msg.Text="Accept the EULA in the code!"
+msg.Text="Accept the EULA in the code! Rejoing in 10 seconds..."
 msg.Parent=workspace
 end
