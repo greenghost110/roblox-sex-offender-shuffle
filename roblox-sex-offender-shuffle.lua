@@ -163,9 +163,3 @@ wait(3)
 chatrem:FireServer('We are legally required to do the *** offender shuffle', "All")
 wait(3)
 end
-
-if EULA ~= true then
-    local msg=Instance.new("Message")
-msg.Text="Accept the EULA in the code! Rejoing in 10 seconds..."
-msg.Parent=workspace
-end
